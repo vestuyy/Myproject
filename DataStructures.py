@@ -25,3 +25,4 @@ if __name__ == "__main__":
     print(v1.add(v2))
     print(v1.subtract(v2))
     print(v1.multiply(number))
+
